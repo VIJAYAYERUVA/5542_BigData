@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lrandkmeans.iml" filepath="$PROJECT_DIR$/.idea/modules/lrandkmeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lrandkmeans-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lrandkmeans-build.iml" />
+    </modules>
+  </component>
+</project>
