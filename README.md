@@ -18,3 +18,5 @@ Teaching Assistants: Manikanta, Naga and Sudhakar
 Lab Assignment1: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB1
 
 Lab Assignment2: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB2
+
+Lab Assignment2: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB3
