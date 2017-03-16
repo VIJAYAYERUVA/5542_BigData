@@ -28,3 +28,5 @@ Lab Assignment5: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB5
 Lab Assignment6: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB6
 
 Lab Assignment7: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB7
+
+Lab Assignment8: https://github.com/VIJAYAYERUVA/5542_BigData/wiki/LAB8
